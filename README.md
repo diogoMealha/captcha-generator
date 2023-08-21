@@ -12,7 +12,7 @@ const callback = (buffer) => {
 }
 captcha("<your string>", callback)
 ```
-Additonaly this function can take another argument with the following params:
+Additonally this function can take another argument with the following params:
 ```javascript
 const params = {
     offset: int,
