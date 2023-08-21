@@ -1,4 +1,4 @@
-# captcha-generator
+# Captcha Generator
 
 Use this program to generate your own captcha image from string
 
@@ -6,7 +6,7 @@ Use this program to generate your own captcha image from string
 ## Usage
 Import the package and use the function:
 ```javascript
-const captcha = require('captcha-generator')
+const captcha = require('captcha-generator-md')
 const callback = (buffer) => {
     console.log(buffer)
 }
