@@ -1,0 +1,25 @@
+{
+  "name": "captcha-generator",
+  "version": "1.0.0",
+  "description": "Generates captcha image from string",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoMealha/captcha-generator.git"
+  },
+  "keywords": [
+    "Captcha"
+  ],
+  "author": "Diogo Mealha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogoMealha/captcha-generator/issues"
+  },
+  "homepage": "https://github.com/diogoMealha/captcha-generator#readme",
+  "dependencies": {
+    "jimp": "^0.22.10"
+  }
+}
