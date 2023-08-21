@@ -1,5 +1,5 @@
 {
-  "name": "captcha-generator",
+  "name": "captcha-generator-md",
   "version": "1.0.0",
   "description": "Generates captcha image from string",
   "main": "lib/index.js",
