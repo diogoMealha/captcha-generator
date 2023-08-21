@@ -33,3 +33,6 @@ const params = {
 
 ## License
 This project is licensed under the MIT License
+
+## Dependencies
+Jimp ^0.22.10
